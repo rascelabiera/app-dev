@@ -1,2 +1,10 @@
 # app-dev
 My first repository
+
+# My Favorite Movie
+
+My favorite movie is Avengers: Endgame.
+
+It is exciting and has many superheroes.
+
+I enjoy watching it with my friends.
